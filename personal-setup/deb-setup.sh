@@ -1,7 +1,6 @@
 sudo install utils/hub /usr/local/bin/hub
-git config --global user.name "Akhil Narang"
-git config --global user.email "akhilnarang.1999@gmail.com"
-git config --global credential.helper "cache --timeout=7200"
+git config --global user.name "Dark-Matter7232"
+git config --global user.email "kerneldeveloper7232@gmail.com"
 echo "" >> ~/.bashrc
 echo "source ~/scripts/functions" >> ~/.bashrc
 echo "onLogin" >> ~/.bashrc
